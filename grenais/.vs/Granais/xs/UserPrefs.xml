@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A4C57BEC-7944-4B78-A51B-F7E9E01FA3AB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Granais/Program.cs">
+    <Files>
+      <File FileName="Granais/Program.cs" Line="11" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Granais" expanded="True">
+            <Node name="Granais">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Granais PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

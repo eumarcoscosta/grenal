@@ -1,0 +1,15 @@
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/Granais/Granais/Granais/bin/Debug/net7.0/Granais
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/Granais/Granais/Granais/bin/Debug/net7.0/Granais.deps.json
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/Granais/Granais/Granais/bin/Debug/net7.0/Granais.runtimeconfig.json
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/Granais/Granais/Granais/bin/Debug/net7.0/Granais.dll
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/Granais/Granais/Granais/bin/Debug/net7.0/Granais.pdb
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/Granais/Granais/Granais/obj/Debug/net7.0/Granais.csproj.AssemblyReference.cache
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/Granais/Granais/Granais/obj/Debug/net7.0/Granais.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/Granais/Granais/Granais/obj/Debug/net7.0/Granais.AssemblyInfoInputs.cache
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/Granais/Granais/Granais/obj/Debug/net7.0/Granais.AssemblyInfo.cs
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/Granais/Granais/Granais/obj/Debug/net7.0/Granais.csproj.CoreCompileInputs.cache
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/Granais/Granais/Granais/obj/Debug/net7.0/Granais.dll
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/Granais/Granais/Granais/obj/Debug/net7.0/refint/Granais.dll
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/Granais/Granais/Granais/obj/Debug/net7.0/Granais.pdb
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/Granais/Granais/Granais/obj/Debug/net7.0/Granais.genruntimeconfig.cache
+/Users/marcoscosta/Desktop/curso-dotnet/exercicios/Granais/Granais/Granais/obj/Debug/net7.0/ref/Granais.dll
